@@ -1,0 +1,6 @@
+streamlit
+streamlit-pdf-viewer==0.0.23
+pymupdf
+llama_index.core
+llama_index.llms.groq
+llama_index.embeddings.huggingface
