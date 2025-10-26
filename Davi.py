@@ -42,7 +42,7 @@ chat_engine = index.as_chat_engine(
 )
 
 st.title("🤖 DAVI")
-st.markdown("**D**ata**V**ision **A**rtificial **I**ntelligence - Seu assistente virtual inteligente treinado com conhecimento completo sobre a DataVision. Tire dúvidas sobre produtos, planos, políticas, equipe e muito mais!")
+st.markdown("DataVision Artificial Intelligence - Seu assistente virtual inteligente treinado com conhecimento completo sobre a DataVision. Tire dúvidas sobre produtos, planos, políticas, equipe e muito mais!")
 
 with st.expander("💡 Sugestões de Perguntas"):
     st.markdown("""
