@@ -2,3 +2,10 @@
 __pycache__
 .streamlit/secrets.toml
 contexto_stark
+Certificados.py
+Leituras.py
+Projetos.py
+utils.py
+certificados
+imagens
+projetos
